@@ -55,5 +55,5 @@ We may update this Privacy Policy at any time. Changes will be announced in our 
 
 ## 10. Contact
 
-- **Support Server:** discord.gg/B8eDMvRy95
-- **GitHub:** github.com/Takizawa747/versa-bot
+- **Support Server:** https://discord.gg/5zd4AhvESq
+- **GitHub:** https://github.com/Takizawa747/versa-bot
