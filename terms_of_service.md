@@ -53,4 +53,4 @@ We may update these Terms at any time. Continued use of the Bot after changes co
 
 ## 11. Contact
 
-For questions: **discord.gg/B8eDMvRy95**
+For questions: **https://discord.gg/5zd4AhvESq**
